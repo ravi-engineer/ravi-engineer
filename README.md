@@ -35,3 +35,48 @@ This profile contains projects covering:
 ---
 
 ⭐ Continuously learning and building modern application architectures.
+
+
+---
+
+## 🚀 Projects
+
+### 🔵 .NET Projects
+- **Employee Management System**
+  - ASP.NET Core MVC application
+  - CRUD operations with SQL Server
+  - Authentication & Role Management
+  - Repository: https://github.com/ravi-engineer/employee-management-dotnet
+
+- **Microservices Billing System**
+  - .NET Microservices Architecture
+  - REST API communication
+  - Service-based backend design
+  - Repository: https://github.com/ravi-engineer/dotnet-microservices-billing
+
+
+### 🟣 Python Projects
+- **Data Analysis Dashboard**
+  - Data processing using Pandas & NumPy
+  - Visualization using Matplotlib
+
+- **Automation Desktop Tool**
+  - Python Tkinter GUI application
+  - Business workflow automation
+
+
+### 🟢 Web Development Projects (PHP)
+- Inventory Management System
+- Invoice & Billing System
+- Healthcare Inspection Certificate System
+- E-commerce Backend Applications
+
+---
+
+## 📈 Currently Learning
+- Microservices Architecture
+- Docker & Kubernetes
+- Cloud Deployment (AWS/Azure)
+- Data Engineering Concepts
+
+---
