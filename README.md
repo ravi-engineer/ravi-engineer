@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm P. Ravi
 
-<!--
-**ravi-engineer/ravi-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 12+ years of experience building enterprise applications.
 
-Here are some ideas to get you started:
+## 🔵 .NET Development
+- ASP.NET MVC Applications
+- ASP.NET Core Projects
+- Microservices Architecture
+- SQL Server & ADO.NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🟣 Python & Data Projects
+- Desktop Applications (Tkinter)
+- Data Analysis (Pandas, NumPy)
+- Visualization (Matplotlib)
+- Automation & Business Logic Systems
+
+## 🛠 Tech Stack
+C# | ASP.NET Core | Python | SQL | REST APIs | MVC Architecture
