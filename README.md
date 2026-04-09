@@ -15,6 +15,7 @@
 | Employee Management System | ASP.NET Core MVC   | 🔗 https://github.com/ravi-engineer/employee-management-dotnet   |
 | Microservices Billing      | .NET Microservices | 🔗 https://github.com/ravi-engineer/dotnet-microservices-billing |
 | ABC FOOD App               | ASP.NET Core MVC   | 🔗 https://github.com/ravi-engineer/abc-food-app-dotnet          |
+| SignalR Chat Application   | ASP.NET Core + SignalR  | 🔗 https://github.com/ravi-engineer/signalr-chat-app-dotnet |
 
 ---
 
@@ -42,6 +43,7 @@
 * ASP.NET MVC & ASP.NET Core Applications
 * REST API Development
 * Microservices Architecture
+* Real-time Applications using SignalR
 * SQL Server & Backend System Design
 
 ---
@@ -92,6 +94,17 @@
 * SQL Server backend integration
 
 [![View Code](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/ravi-engineer/abc-food-app-dotnet)
+
+---
+
+#### SignalR Real-Time Chat Application
+
+* Real-time messaging using ASP.NET Core SignalR
+* WebSocket-based live communication
+* User message persistence with database integration
+* Hub-based server-client communication model
+
+[![View Code](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/ravi-engineer/signalr-chat-app-dotnet)
 
 ---
 
