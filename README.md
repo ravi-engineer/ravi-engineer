@@ -13,6 +13,7 @@
 | Employee Management System | ASP.NET Core MVC   | 🔗 https://github.com/ravi-engineer/employee-management-dotnet         |
 | Microservices Billing      | .NET Microservices | 🔗 https://github.com/ravi-engineer/dotnet-microservices-billing       |
 | Machine Learning Portfolio | Python / ML        | 🔗 https://github.com/ravi-engineer/machine-learning-projects          |
+| AI & Deep Learning Projects| Python / Deep Learning | 🔗 https://github.com/ravi-engineer/ai-projects                    |
 | ABC FOOD App               | ASP.NET Core MVC   | 🔗 https://github.com/ravi-engineer/abc-food-app-dotnet                |
 | EB Bill Calculator         | Python             | 🔗 https://github.com/ravi-engineer/EB-Bill-Calculator                 |
 | Medicine Management System | Python Tkinter     | 🔗 https://github.com/ravi-engineer/Tkinter-Medicine-Management-System |
@@ -93,6 +94,22 @@ Algorithms Included:
 * XGBoost
 
 [![View ML Projects](https://img.shields.io/badge/View-ML%20Projects-green?logo=github)](https://github.com/ravi-engineer/machine-learning-projects)
+
+---
+
+### 🔴 AI & Deep Learning Projects
+
+Deep learning projects focused on Neural Networks and Computer Vision using TensorFlow and Keras.
+
+Projects Included:
+
+* Artificial Neural Network – Classification
+* Artificial Neural Network – Regression
+* MNIST Digit Classification (CNN)
+* CIFAR-10 Image Classification (CNN)
+* Facial Age Recognition
+
+[![View AI Projects](https://img.shields.io/badge/View-AI%20Projects-red?logo=github)](https://github.com/ravi-engineer/ai-projects)
 
 ---
 
