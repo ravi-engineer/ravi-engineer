@@ -93,7 +93,7 @@ Algorithms Included:
 * K-Means Clustering
 * XGBoost
 
-[![View ML Projects](https://img.shields.io/badge/View-ML%20Projects-green?logo=github)](https://github.com/ravi-engineer/machine-learning-projects)
+[![View Code](https://img.shields.io/badge/View-Code-blue?logo=github)](https://github.com/ravi-engineer/machine-learning-projects)
 
 ---
 
